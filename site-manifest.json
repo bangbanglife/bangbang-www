@@ -14,8 +14,8 @@
       "slug": "privacy-policy",
       "version": "v2.3",
       "source": "docs/legal/隐私政策_v2.3.zh.md",
-      "sourceSha256": "63f19558e4c1bb20298fb876e2bac87ab76dff530bfd3bed53d428ff4d7f7323",
-      "textSha256": "0e39b09fd78b6e55cff5a71d7a966098af9d61e163da3ecbb4363536b201f598"
+      "sourceSha256": "76f0a6005e7b7de3821197c58af5064f1629a1a6a96c30b41397ed9375d5ac86",
+      "textSha256": "ca6ab42b7650319c06fddd583a527aa62c56b3d0b5d82f58712a6a9f4fbe5ace"
     },
     {
       "page": "/zh/legal/refund/",
@@ -38,8 +38,8 @@
       "slug": "privacy-policy",
       "version": "v2.3",
       "source": "docs/legal/隐私政策_v2.3.en.md",
-      "sourceSha256": "f986e417fdd5a0b615886e8a93ea120cbc2c14bf9e8201a52953e5a04214e947",
-      "textSha256": "030664118ba43b724bdb9656aca8affd77aeb841a9f8d230b35407bb3554898e"
+      "sourceSha256": "debf5b26c3dd3384282035ee8eeb20ba9967ac13db18fbae02993d4be7d2553c",
+      "textSha256": "09ac8cfd2b4160c342a98370b789327df8ac2a56a0feb78a894b2ca7a4fcb5c8"
     },
     {
       "page": "/en/legal/refund/",
@@ -61,7 +61,7 @@
     },
     {
       "path": "zh/legal/privacy/index.html",
-      "sha256": "b75514e005517d7c340f7702855ba3e37aea59a3bc9288681de39eec37799c38"
+      "sha256": "9bdb9308665a764dccd1887618454eb128f5a658bcf1e6b882f2c41d5a861f88"
     },
     {
       "path": "zh/legal/refund/index.html",
@@ -77,7 +77,7 @@
     },
     {
       "path": "en/legal/privacy/index.html",
-      "sha256": "221aa869b3544bd962244f595e4e7aaa37d4a8cc7d4c08324baf4b02bb42dbb4"
+      "sha256": "80647d5f5c9240b7d6ec9f0867aff8723fabd2a90567a6a0755ab5efa0bdecff"
     },
     {
       "path": "en/legal/refund/index.html",
@@ -93,7 +93,7 @@
     },
     {
       "path": "legal/privacy/index.html",
-      "sha256": "bc41faee71d4feab7fd7d7036ea8c0dfa88541e7369f10280657f9e22232f168"
+      "sha256": "e31965478b862eaa22650f6d3143a262e3b7183dc84c6437d04a64dfedf005af"
     },
     {
       "path": "legal/refund/index.html",
