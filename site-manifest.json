@@ -1,0 +1,129 @@
+{
+  "note": "The legal pages of this site, and the source files and texts they were made from (scripts/static-site-export.test.ts).",
+  "legal": [
+    {
+      "page": "/zh/legal/terms/",
+      "slug": "platform-terms",
+      "version": "v3.5",
+      "source": "docs/legal/服务条款_v3.5.zh.md",
+      "sourceSha256": "f19fdb54467e15d39be171946d5db8fafbd91142be60cf89a206d9dcb0557342",
+      "textSha256": "004ec25bb4a83dcc6f6369298b89a1d3a9c4e21043b9fff9b44b12944b40abee"
+    },
+    {
+      "page": "/zh/legal/privacy/",
+      "slug": "privacy-policy",
+      "version": "v2.3",
+      "source": "docs/legal/隐私政策_v2.3.zh.md",
+      "sourceSha256": "63f19558e4c1bb20298fb876e2bac87ab76dff530bfd3bed53d428ff4d7f7323",
+      "textSha256": "0e39b09fd78b6e55cff5a71d7a966098af9d61e163da3ecbb4363536b201f598"
+    },
+    {
+      "page": "/zh/legal/refund/",
+      "slug": "refund-dispute-rules",
+      "version": "v2.4",
+      "source": "docs/legal/退款与争议规则_v2.4.zh.md",
+      "sourceSha256": "6f190a8dae7ae2b3b8ad7ee866720571bed2c5c1e8b1cce2a5125c7d2adb7271",
+      "textSha256": "fd27e50670a943a4336d7789cdb0ee6ecdbc961365033e7f5cc2d546e364ed4a"
+    },
+    {
+      "page": "/en/legal/terms/",
+      "slug": "platform-terms",
+      "version": "v3.5",
+      "source": "docs/legal/服务条款_v3.5.en.md",
+      "sourceSha256": "d3fe532c0994c848e98186d90c4f01cdc6d607b2642d1586bc601ad2d061244a",
+      "textSha256": "c315b28196cfce172bb920c0f07ae4ac38e7f7353effff6b6edf23bd80bf57ab"
+    },
+    {
+      "page": "/en/legal/privacy/",
+      "slug": "privacy-policy",
+      "version": "v2.3",
+      "source": "docs/legal/隐私政策_v2.3.en.md",
+      "sourceSha256": "f986e417fdd5a0b615886e8a93ea120cbc2c14bf9e8201a52953e5a04214e947",
+      "textSha256": "030664118ba43b724bdb9656aca8affd77aeb841a9f8d230b35407bb3554898e"
+    },
+    {
+      "page": "/en/legal/refund/",
+      "slug": "refund-dispute-rules",
+      "version": "v2.4",
+      "source": "docs/legal/退款与争议规则_v2.4.en.md",
+      "sourceSha256": "2a0d264c4b23554aa2414549ea5a2793b48f5ccda94fc32b9d8f7092d0ded02d",
+      "textSha256": "2398bdb9d9da33cd43af76d21906e5b9ed505f467fcd8d3919a91600eaa74546"
+    }
+  ],
+  "files": [
+    {
+      "path": "zh/index.html",
+      "sha256": "089fc5014a9a5ac9c731d3e1ab6cf718d0b4434d4c1047be3d523809be9891b2"
+    },
+    {
+      "path": "zh/legal/terms/index.html",
+      "sha256": "4261c9810f38e762f29eb32b709ce87f9bfc69ffd836df1520c85eb7185cc272"
+    },
+    {
+      "path": "zh/legal/privacy/index.html",
+      "sha256": "b75514e005517d7c340f7702855ba3e37aea59a3bc9288681de39eec37799c38"
+    },
+    {
+      "path": "zh/legal/refund/index.html",
+      "sha256": "df3fa72f377b7713902988a4c882cb8a7ce8e82d1f71ab869e30b2eeac38c51f"
+    },
+    {
+      "path": "en/index.html",
+      "sha256": "db7e2561eda8e32229ca667433cd068782049c65586241e3255402edbabf30b0"
+    },
+    {
+      "path": "en/legal/terms/index.html",
+      "sha256": "5bb119b77f39f78df50ab342c5e7613ab948db03cf10f7f41bec9afcf8e81f45"
+    },
+    {
+      "path": "en/legal/privacy/index.html",
+      "sha256": "221aa869b3544bd962244f595e4e7aaa37d4a8cc7d4c08324baf4b02bb42dbb4"
+    },
+    {
+      "path": "en/legal/refund/index.html",
+      "sha256": "119a305e8f9ae21455f3fe0080a067dc6fa940cd0d69c72aac134488ab44bfff"
+    },
+    {
+      "path": "index.html",
+      "sha256": "cb87b196ddcbfc8b5092a14b5fda2166604e37613d9d86b58b5a076150979966"
+    },
+    {
+      "path": "legal/terms/index.html",
+      "sha256": "6bb967248cd9a8ca52fc210f665a66982e587ecaa681dc59926c086af2ae8802"
+    },
+    {
+      "path": "legal/privacy/index.html",
+      "sha256": "bc41faee71d4feab7fd7d7036ea8c0dfa88541e7369f10280657f9e22232f168"
+    },
+    {
+      "path": "legal/refund/index.html",
+      "sha256": "9fbe49bb93f150e5b70e652c0789885c87ac125ceeb81dda5044060df7167a1c"
+    },
+    {
+      "path": "assets/site.css",
+      "sha256": "7a519a0ebeb288147a25467a61a1103bdbdacfb0b4fbef485de9cd5dfa24a24c"
+    },
+    {
+      "path": "brand/BangBangLogo.svg",
+      "sha256": "5bbcf1f6bbd21535b876c80cc4eaf973a5ebc0cc2982be74f7070d3cf57090c6"
+    },
+    {
+      "path": "brand/BangBangAppIcon.svg",
+      "sha256": "6e4eceffb9d6ccda451f7999a1633bb7d054743da9e198bcf3a57fc96d7ed23a"
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "186572cd3452def86dd6ce44ad134b1524df453f39e9db98fa324b2b9bf0d468"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "c9b22e0209c4aae610ee90f41920dc617e7184207abd3ae1b3197a8594561220"
+    }
+  ],
+  "handEdited": [
+    "en/index.html",
+    "index.html",
+    "zh/index.html"
+  ],
+  "handEditedNote": "These files are placed into the site by hand (the designed home pages) and are not the generator's output: their hashes in the files list are those of the files as they are shipped; the legal pages' hashes belong to the generator."
+}

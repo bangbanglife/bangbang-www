@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.bangbanglife.com.au/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.bangbanglife.com.au/zh/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bangbanglife.com.au/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bangbanglife.com.au/"/>
+  </url>
+  <url>
+    <loc>https://www.bangbanglife.com.au/en/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.bangbanglife.com.au/zh/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bangbanglife.com.au/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bangbanglife.com.au/"/>
+  </url>
+  <url>
+    <loc>https://www.bangbanglife.com.au/zh/legal/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.bangbanglife.com.au/zh/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bangbanglife.com.au/en/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bangbanglife.com.au/legal/terms/"/>
+  </url>
+  <url>
+    <loc>https://www.bangbanglife.com.au/en/legal/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.bangbanglife.com.au/zh/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bangbanglife.com.au/en/legal/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bangbanglife.com.au/legal/terms/"/>
+  </url>
+  <url>
+    <loc>https://www.bangbanglife.com.au/zh/legal/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.bangbanglife.com.au/zh/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bangbanglife.com.au/en/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bangbanglife.com.au/legal/privacy/"/>
+  </url>
+  <url>
+    <loc>https://www.bangbanglife.com.au/en/legal/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.bangbanglife.com.au/zh/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bangbanglife.com.au/en/legal/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bangbanglife.com.au/legal/privacy/"/>
+  </url>
+  <url>
+    <loc>https://www.bangbanglife.com.au/zh/legal/refund/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.bangbanglife.com.au/zh/legal/refund/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bangbanglife.com.au/en/legal/refund/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bangbanglife.com.au/legal/refund/"/>
+  </url>
+  <url>
+    <loc>https://www.bangbanglife.com.au/en/legal/refund/</loc>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.bangbanglife.com.au/zh/legal/refund/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bangbanglife.com.au/en/legal/refund/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bangbanglife.com.au/legal/refund/"/>
+  </url>
+</urlset>
