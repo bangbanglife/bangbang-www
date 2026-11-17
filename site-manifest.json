@@ -4,104 +4,104 @@
     {
       "page": "/zh/legal/terms/",
       "slug": "platform-terms",
-      "version": "v3.5",
-      "source": "docs/legal/服务条款_v3.5.zh.md",
-      "sourceSha256": "f19fdb54467e15d39be171946d5db8fafbd91142be60cf89a206d9dcb0557342",
-      "textSha256": "004ec25bb4a83dcc6f6369298b89a1d3a9c4e21043b9fff9b44b12944b40abee"
+      "version": "v1.0",
+      "source": "docs/legal/服务条款_v1.0.zh.md",
+      "sourceSha256": "c3bb6647f2807592e02f350c560f1f81ef575824021341fcb06fd60b5d5e1f9c",
+      "textSha256": "c07a063ae549c0dd6cd8bd85e92554d6fda7f40f621278fd0e8c5ccbad5b1a7d"
     },
     {
       "page": "/zh/legal/privacy/",
       "slug": "privacy-policy",
-      "version": "v2.3",
-      "source": "docs/legal/隐私政策_v2.3.zh.md",
-      "sourceSha256": "76f0a6005e7b7de3821197c58af5064f1629a1a6a96c30b41397ed9375d5ac86",
-      "textSha256": "ca6ab42b7650319c06fddd583a527aa62c56b3d0b5d82f58712a6a9f4fbe5ace"
+      "version": "v1.0",
+      "source": "docs/legal/隐私政策_v1.0.zh.md",
+      "sourceSha256": "65b5685e0fc80371ddbc40ddc61925fcd5caee6f35e1b35eef0da5f0ab1ffc5c",
+      "textSha256": "3fa0cfe94a905062c41abb0439bb728cdb8d00263edb667b2f01ff1faaf6682b"
     },
     {
       "page": "/zh/legal/refund/",
       "slug": "refund-dispute-rules",
-      "version": "v2.4",
-      "source": "docs/legal/退款与争议规则_v2.4.zh.md",
-      "sourceSha256": "6f190a8dae7ae2b3b8ad7ee866720571bed2c5c1e8b1cce2a5125c7d2adb7271",
-      "textSha256": "fd27e50670a943a4336d7789cdb0ee6ecdbc961365033e7f5cc2d546e364ed4a"
+      "version": "v1.0",
+      "source": "docs/legal/退款与争议规则_v1.0.zh.md",
+      "sourceSha256": "3ee95c260918df0ae60c1668ebf55d4df05adfdbb4b76ba7e59f52c2a54626d6",
+      "textSha256": "43e56a6ae5cf4d7048efebfc514a0f30df63d05cdd4025a4e6cec89720ba202e"
     },
     {
       "page": "/en/legal/terms/",
       "slug": "platform-terms",
-      "version": "v3.5",
-      "source": "docs/legal/服务条款_v3.5.en.md",
-      "sourceSha256": "d3fe532c0994c848e98186d90c4f01cdc6d607b2642d1586bc601ad2d061244a",
-      "textSha256": "c315b28196cfce172bb920c0f07ae4ac38e7f7353effff6b6edf23bd80bf57ab"
+      "version": "v1.0",
+      "source": "docs/legal/服务条款_v1.0.en.md",
+      "sourceSha256": "e546ce80b03f45a524d70f5d61ce8996b7788a3d922e25f6951f1855065f2312",
+      "textSha256": "ce23eeb42e53998955dfe0c1e41301128997490eede101e5d4f33e1c02f28b0f"
     },
     {
       "page": "/en/legal/privacy/",
       "slug": "privacy-policy",
-      "version": "v2.3",
-      "source": "docs/legal/隐私政策_v2.3.en.md",
-      "sourceSha256": "debf5b26c3dd3384282035ee8eeb20ba9967ac13db18fbae02993d4be7d2553c",
-      "textSha256": "09ac8cfd2b4160c342a98370b789327df8ac2a56a0feb78a894b2ca7a4fcb5c8"
+      "version": "v1.0",
+      "source": "docs/legal/隐私政策_v1.0.en.md",
+      "sourceSha256": "3fa534dd9bc930929985b4acc7e12ea1b68b267f715c3ad7630ed29b17eeae78",
+      "textSha256": "9defb7b6bf2fc50595aa026e65896aac4542886b758ef19e3febd82bfc1d6872"
     },
     {
       "page": "/en/legal/refund/",
       "slug": "refund-dispute-rules",
-      "version": "v2.4",
-      "source": "docs/legal/退款与争议规则_v2.4.en.md",
-      "sourceSha256": "2a0d264c4b23554aa2414549ea5a2793b48f5ccda94fc32b9d8f7092d0ded02d",
-      "textSha256": "2398bdb9d9da33cd43af76d21906e5b9ed505f467fcd8d3919a91600eaa74546"
+      "version": "v1.0",
+      "source": "docs/legal/退款与争议规则_v1.0.en.md",
+      "sourceSha256": "f50d8f1c85bf94c04827fb9c0992d3f219033fae25833311994a0b0dc6854145",
+      "textSha256": "7b9bf30c82f6728596aae97eec32ba58d7a8538dca5b550ebbdf66916257db11"
     }
   ],
   "files": [
     {
       "path": "zh/index.html",
-      "sha256": "089fc5014a9a5ac9c731d3e1ab6cf718d0b4434d4c1047be3d523809be9891b2"
+      "sha256": "d7191cf85728043d61cc4df55f4e27cce5f1088d3ff23de21c068429b8073011"
     },
     {
       "path": "zh/legal/terms/index.html",
-      "sha256": "4261c9810f38e762f29eb32b709ce87f9bfc69ffd836df1520c85eb7185cc272"
+      "sha256": "211f1d08234e1a725c818443c69f00ea827befb96aba9434336110794904ec7f"
     },
     {
       "path": "zh/legal/privacy/index.html",
-      "sha256": "9bdb9308665a764dccd1887618454eb128f5a658bcf1e6b882f2c41d5a861f88"
+      "sha256": "ebfc0bf6b9fa3ffa8000ea666a50fa690cac66032228787a13ae11e6f484b012"
     },
     {
       "path": "zh/legal/refund/index.html",
-      "sha256": "df3fa72f377b7713902988a4c882cb8a7ce8e82d1f71ab869e30b2eeac38c51f"
+      "sha256": "8b6e9a3c66ec6746118d41330d7558e5b2292292d491667bc5bc221ea72d1152"
     },
     {
       "path": "en/index.html",
-      "sha256": "db7e2561eda8e32229ca667433cd068782049c65586241e3255402edbabf30b0"
+      "sha256": "69211f97d84ca354e095606518c3a1f34880d7bb45f100a5fcc9eb0fec273f0a"
     },
     {
       "path": "en/legal/terms/index.html",
-      "sha256": "5bb119b77f39f78df50ab342c5e7613ab948db03cf10f7f41bec9afcf8e81f45"
+      "sha256": "5f7cf75e0da3b1e70cea329fd678f5e2e919e9c839a174d3a322d686d43ac6e7"
     },
     {
       "path": "en/legal/privacy/index.html",
-      "sha256": "80647d5f5c9240b7d6ec9f0867aff8723fabd2a90567a6a0755ab5efa0bdecff"
+      "sha256": "eafc749187e96542169d57f13396607450bd7d463fe6cd6fccce054ebb4af8ed"
     },
     {
       "path": "en/legal/refund/index.html",
-      "sha256": "119a305e8f9ae21455f3fe0080a067dc6fa940cd0d69c72aac134488ab44bfff"
+      "sha256": "695193da5775f3f96b966152e9186c4137d73a2fc09df20732c382260cf76143"
     },
     {
       "path": "index.html",
-      "sha256": "cb87b196ddcbfc8b5092a14b5fda2166604e37613d9d86b58b5a076150979966"
+      "sha256": "a7e571f5efc9e9276336267919e8abe915b450e1d9bf67b000043426ec417f2c"
     },
     {
       "path": "legal/terms/index.html",
-      "sha256": "6bb967248cd9a8ca52fc210f665a66982e587ecaa681dc59926c086af2ae8802"
+      "sha256": "97a4f269cf735c1435dd6e29c09e1ffaad94911eda96224cd20cdc2ea7b23020"
     },
     {
       "path": "legal/privacy/index.html",
-      "sha256": "e31965478b862eaa22650f6d3143a262e3b7183dc84c6437d04a64dfedf005af"
+      "sha256": "59cb16d88f493f420497ecfc06cb68ef6e9642ddbd68a49202442680a01ce5a2"
     },
     {
       "path": "legal/refund/index.html",
-      "sha256": "9fbe49bb93f150e5b70e652c0789885c87ac125ceeb81dda5044060df7167a1c"
+      "sha256": "b28542f0f7c364dd444affdc192290840138ae602e4e986a8cf50e593eb6686c"
     },
     {
       "path": "assets/site.css",
-      "sha256": "7a519a0ebeb288147a25467a61a1103bdbdacfb0b4fbef485de9cd5dfa24a24c"
+      "sha256": "6f28367732340484181c28aceb29769558336ff41c8c196a3417f7abae19df8e"
     },
     {
       "path": "brand/BangBangLogo.svg",
@@ -110,6 +110,22 @@
     {
       "path": "brand/BangBangAppIcon.svg",
       "sha256": "6e4eceffb9d6ccda451f7999a1633bb7d054743da9e198bcf3a57fc96d7ed23a"
+    },
+    {
+      "path": "brand/apple-touch-icon.png",
+      "sha256": "0087adff3301ba5bfe6c2d6c60901df3e7a8a1639d2ecca73b67df023e903265"
+    },
+    {
+      "path": "brand/icon-192.png",
+      "sha256": "e1836d70b616b4069ed71cc49905d322c1a1318d885544d38ef3c41903701a0b"
+    },
+    {
+      "path": "brand/icon-512.png",
+      "sha256": "d626cfb004151d08711782c73cf3545bfb0e8617aee5a41ab839838fad9b878c"
+    },
+    {
+      "path": "llms.txt",
+      "sha256": "7b97e70398e8ea5270c0a9982bf9e9fad2ac741e255b475bca7d8019942aadf5"
     },
     {
       "path": "robots.txt",
@@ -122,8 +138,17 @@
   ],
   "handEdited": [
     "en/index.html",
+    "en/legal/privacy/index.html",
+    "en/legal/refund/index.html",
+    "en/legal/terms/index.html",
     "index.html",
-    "zh/index.html"
+    "legal/privacy/index.html",
+    "legal/refund/index.html",
+    "legal/terms/index.html",
+    "zh/index.html",
+    "zh/legal/privacy/index.html",
+    "zh/legal/refund/index.html",
+    "zh/legal/terms/index.html"
   ],
   "handEditedNote": "These files are placed into the site by hand (the designed home pages) and are not the generator's output: their hashes in the files list are those of the files as they are shipped; the legal pages' hashes belong to the generator."
 }
